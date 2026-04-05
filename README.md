@@ -1,1 +1,184 @@
-# ai-funnel
+<!DOCTYPE html>  <html lang="en">  
+<head>  
+  <meta charset="UTF-8" />  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />  
+  <title>Telegram AI Chart Analyzer System</title>    <meta name="description" content="AI-powered Telegram chart analyzer system. Private access for BD & Global traders." />    <!-- OG Tags -->    <meta property="og:title" content="Telegram AI Chart Analyzer System" />  
+  <meta property="og:description" content="Join private AI trading analysis system on Telegram." />  
+  <meta property="og:type" content="website" />    <!-- FONT -->    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">    <!-- AUTO REDIRECT (FIXED) -->    <script>  
+    setTimeout(() => {  
+      window.location.replace("https://t.me/+Cg5U_vnaeXdmMGQ8");  
+    }, 4500);  
+  </script>    <style>  
+    *{box-sizing:border-box}  
+    body{  
+      margin:0;  
+      font-family:'Poppins',sans-serif;  
+      background:linear-gradient(120deg,#050505,#0d0d0d,#050505);  
+      color:#fff;  
+      overflow-x:hidden;  
+    }  
+  
+    body:before{  
+      content:"";  
+      position:fixed;  
+      inset:0;  
+      background:radial-gradient(circle at 20% 20%,rgba(255,87,34,.12),transparent 40%),  
+                 radial-gradient(circle at 80% 80%,rgba(30,136,229,.12),transparent 40%);  
+      animation:bgmove 12s linear infinite alternate;  
+      z-index:-1;  
+    }  
+  
+    @keyframes bgmove{  
+      from{transform:translateY(0)}  
+      to{transform:translateY(-60px)}  
+    }  
+  
+    .container{  
+      max-width:540px;  
+      margin:auto;  
+      padding:28px 22px 40px;  
+      text-align:center;  
+    }  
+  
+    .logo{  
+      width:108px;height:108px;  
+      margin:10px auto 14px;  
+      border-radius:50%;  
+      display:flex;align-items:center;justify-content:center;  
+      font-weight:700;font-size:13px;  
+      background:linear-gradient(135deg,#ff9800,#ff3d00);  
+      box-shadow:0 0 40px rgba(255,61,0,.55);  
+    }  
+  
+    .badge{  
+      display:inline-block;  
+      padding:6px 16px;  
+      font-size:12px;  
+      border-radius:30px;  
+      background:rgba(33,150,243,.18);  
+      color:#90caf9;  
+      margin-bottom:12px;  
+    }  
+  
+    h1{font-size:26px;margin:10px 0 14px}  
+    .highlight{  
+      background:linear-gradient(90deg,#ff9800,#ff3d00);  
+      -webkit-background-clip:text;  
+      -webkit-text-fill-color:transparent;  
+    }  
+  
+    p{font-size:15px;line-height:1.7;color:#d6d6d6}  
+  
+    .cta{  
+      display:block;  
+      margin:20px 0;  
+      padding:17px;  
+      border-radius:16px;  
+      text-decoration:none;  
+      color:#fff;  
+      font-weight:600;  
+      background:linear-gradient(90deg,#ff5722,#ff3d00);  
+    }  
+  
+    .cta.secondary{  
+      background:linear-gradient(90deg,#1e88e5,#1565c0);  
+    }  
+  
+    .stats{  
+      margin-top:22px;  
+      display:grid;  
+      grid-template-columns:repeat(3,1fr);  
+      gap:12px;  
+    }  
+  
+    .stat{  
+      background:rgba(255,255,255,.04);  
+      padding:16px 10px;  
+      border-radius:16px;  
+      font-size:13px;  
+    }  
+  
+    .stat strong{  
+      display:block;  
+      font-size:20px;  
+      color:#4caf50;  
+    }  
+  
+    .features{  
+      margin-top:26px;  
+      text-align:left;  
+      background:rgba(255,255,255,.03);  
+      padding:18px;  
+      border-radius:18px;  
+      font-size:14px;  
+      color:#cfcfcf;  
+    }  
+  
+    .features li{margin:10px 0}  
+  
+    .notice{  
+      margin-top:22px;  
+      padding:16px;  
+      border-radius:16px;  
+      background:rgba(255,152,0,.08);  
+      color:#ffcc80;  
+      font-size:13px;  
+    }  
+  
+    .disclaimer{  
+      margin-top:22px;  
+      font-size:12px;  
+      color:#8a8a8a;  
+    }  
+  
+    .footer{  
+      margin-top:34px;  
+      font-size:12px;  
+      color:#666;  
+    }  
+  </style>  </head>  <body>  
+  <div class="container">  <div class="logo">AI BOT</div>  
+
+<div class="badge">BD 🇧🇩 + GLOBAL 🌍 PRIVATE SYSTEM</div>  
+
+<h1>  
+  <span class="highlight">Telegram AI</span><br>  
+  Chart Analyzer System  
+</h1>  
+
+<p>  
+  AI-powered chart analysis system built on Telegram for traders worldwide.  
+</p>  
+
+<a class="cta" href="https://t.me/+Cg5U_vnaeXdmMGQ8">🤖 Enter AI BOT</a>  
+<a class="cta secondary" href="https://t.me/+3NylXTrJl7I1ZTdl">📊 Enter Chart Analyzer</a>  
+
+<div class="stats">  
+  <div class="stat"><strong>12,887</strong>Live Users</div>  
+  <div class="stat"><strong>24/7</strong>AI Analysis</div>  
+  <div class="stat"><strong>98%</strong>Uptime</div>  
+</div>  
+
+<ul class="features">  
+  <li>🤖 AI-driven market structure analysis</li>  
+  <li>🔐 Private Telegram access</li>  
+  <li>📈 Smart trend detection</li>  
+  <li>⚡ Fast clean signals</li>  
+  <li>🌍 Global trader support</li>  
+</ul>  
+
+<div class="notice">  
+  ⚠️ Limited access system. Auto redirect enabled.  
+</div>  
+
+<div class="disclaimer">  
+  Educational purpose only. Trading involves risk.  
+</div>  
+
+<div class="footer">  
+  © 2026 LADENSBRAND.COM  
+</div>
+
+  </div>  
+</body>  
+</html>
